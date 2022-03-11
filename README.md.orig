@@ -1,0 +1,13 @@
+# Git
+Frequent commands for using git and github
+
+Creating two branches dev and test
+<<<<<<< HEAD
+To create dev branch
+$git branch dev
+$git checkout -b dev
+=======
+To create test branch
+$git branch test
+$git checkout -b test
+>>>>>>> test
